@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cisija73
-- 👀 I’m interested in IT and Data
+- 👀 I’m interested in IT and Data Analytics
 - 🌱 I’m currently doing the IBM Data Science Professional Certificate 
 - 📫 How to reach me: emrah.cisija@rub.de
 
